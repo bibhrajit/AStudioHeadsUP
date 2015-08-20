@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HeadsUP</string>
+
+    <string name="say_ok_headsup">Say \"Ok HeadsUP!\"</string>
+
+    <string name="available_commands">Call&#8230;\nSend message&#8230;\nDirect me&#8230;\nStart app&#8230;</string>
+
+    <string name="tip_iam_always_listening">Tip: I\'m always listening for \"Ok HeadsUP!\"</string>
+
+    <string name="answer">“Answer”</string>
+
+    <string name="ignore">“Ignore”</string>
+
+</resources>

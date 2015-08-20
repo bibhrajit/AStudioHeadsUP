@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup_v2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="answer">“Answer”</string>
+    <string name="app_name">HeadsUP</string>
+    <string name="available_commands">Call…\nSend message…\nDirect me…\nStart app…</string>
+    <string name="ignore">“Ignore”</string>
+    <string name="say_ok_headsup">Say \"Ok HeadsUP!\"</string>
+    <string name="tip_iam_always_listening">Tip: I\'m always listening for \"Ok HeadsUP!\"</string>
+</resources>

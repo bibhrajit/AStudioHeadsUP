@@ -1,0 +1,9 @@
+models/dict/cmu07a.dic
+models/hmm/en-us-semi/README
+models/hmm/en-us-semi/feat.params
+models/hmm/en-us-semi/mdef
+models/hmm/en-us-semi/means
+models/hmm/en-us-semi/noisedict
+models/hmm/en-us-semi/sendump
+models/hmm/en-us-semi/transition_matrices
+models/hmm/en-us-semi/variances

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-5f9ee8a7533add811310feedd7b2740c129eb3c8.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-60226c9c1209e76be62235789275de78631f3e34.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-f266cebbc9104780bc91018824dff7776c644880.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-44c853b5c8a102e0e3541bce2d0873725ea9c467.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-4e7413c3d7e58f52913711f74b62f2d3b84d7532.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-662751986db1e262029f4a4541ba87c9164fc2f7.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-661d8e6a7071ee2b1d8527ac5f8f6ca56252a4b8.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-57fb5a1554b7feb761c3b68de966f002264a7066.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-74a0f29ffee35d8fbb5691259a04823635ef862f.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-80c596c2130c1ef5cd91e61e5e642890ec8285bc.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-e6c2ccc60357e2360c1aa6608acdb077066fd26a.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-3950b7948b0ddaa48f4b52cb707d7b5861f1a128.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-dd56642c08124aa8752968b73a871aef13b1e188.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-0f7f2e9e36b2bcadaed9512b03fe5652d68e3b7b.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-32b5bbc672e244da6ef07f511a831dd1a65a0244.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-3d313ef0efb7d8ff8e9fb95a8bad9bc7848f9722.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-89468520efeb95f85591f4a66ec919eae83c4a96.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-1febcf9dbd05bf379fe3a048cf035c751fd15287.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-be279d26636480f26cc569adf6b6e4c98dc6551f.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-05bbc3c856c7ee8eae9293dbed7572eea49bf74f.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/libs/pocketsphinx-android-0.8-nolib.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="79e72ad97c6001aa89f3a250970615d92eb05fb8">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/pocketsphinx-android-0.8-nolib-af2b6717b5e8372ca1ef1af5fa8fb310e93e6743.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-0fe1cb6698011706390d7b86b40220b10c6e41eb.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-2015fb3c26b47ee6663c6deb6b5b1abcba453929.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-83317ecee867dd93b58bc96629c3072d71a7c39a.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-4277a2079d0cfd18c44f86e4c3efa5bd0a206da3.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-0e00f0a5f656ab1c19e1033f6ad17444665b7c7f.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-330d95455988ce657a3d549aece6d3e72e85d297.jar" />
+    </item>
+    <item
+        jar="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/bibhrajit/AndroidStudioProjects/HeadsUP!/headsup/app/build/intermediates/pre-dexed/debug/classes-9ce624cfa99479a6508ba212f2910b4a0490ea93.jar" />
+    </item>
+
+</items>

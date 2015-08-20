@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/ok_headsup_screen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:visibility="visible" >
+
+        <TextView
+            android:id="@+id/say_ok_headsup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="24dp"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="23dp"
+            android:text="@string/say_ok_headsup"
+            android:textColor="#00bdda"
+            android:textSize="64sp" />
+
+        <TextView
+            android:id="@+id/available_commands"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/say_ok_headsup"
+            android:layout_alignStart="@+id/say_ok_headsup"
+            android:layout_below="@+id/say_ok_headsup"
+            android:layout_marginTop="38dp"
+            android:text="@string/available_commands"
+            android:textColor="#00bdda"
+            android:textSize="64sp" />
+
+        <ImageView
+            android:id="@+id/microphone"
+            android:layout_width="96dp"
+            android:layout_height="96dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/ic_microphone" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/microphone"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_toEndOf="@+id/microphone"
+            android:layout_toRightOf="@+id/microphone"
+            android:gravity="end"
+            android:text="@string/tip_iam_always_listening"
+            android:textSize="24sp" />
+
+        <ImageView
+            android:id="@+id/video_recorder"
+            android:layout_width="96dp"
+            android:layout_height="96dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="40dp"
+            android:layout_marginRight="40dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/ic_video_recorder"
+            android:visibility="invisible" />
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/"
+            android:layout_below="@+id/video_recorder"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"></FrameLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/text_screen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="14dp"
+            android:layout_marginStart="14dp"
+            android:layout_marginTop="28dp"
+            android:textColor="#00bdda"
+            android:textSize="64sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/photo_screen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/photo"
+            android:layout_width="240dp"
+            android:layout_height="240dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="14dp"
+            android:layout_marginStart="14dp"
+            android:layout_marginTop="28dp"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitCenter" />
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/photo"
+            android:layout_marginLeft="24dp"
+            android:layout_marginStart="24dp"
+            android:layout_toEndOf="@+id/photo"
+            android:layout_toRightOf="@+id/photo"
+            android:textColor="#00bdda"
+            android:textSize="64sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/incall_screen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:visibility="gone" >
+
+        <RelativeLayout
+            android:id="@+id/photo_block"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:gravity="clip_vertical" >
+
+                <TextView
+                    android:id="@+id/answer"
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_weight="1"
+                    android:background="#00bdda"
+                    android:gravity="center_vertical"
+                    android:text="@string/answer"
+                    android:textColor="#ffffff"
+                    android:textSize="88sp" />
+
+                <TextView
+                    android:id="@+id/ignore"
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_weight="1"
+                    android:background="#fe0000"
+                    android:gravity="right|center_vertical"
+                    android:text="@string/ignore"
+                    android:textColor="#ffffff"
+                    android:textSize="88sp" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/photo2"
+                android:layout_width="528dp"
+                android:layout_height="528dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:contentDescription="@string/app_name"
+                android:scaleType="fitCenter" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/photo_block"
+            android:layout_centerHorizontal="true"
+            android:textSize="64sp" />
+    </RelativeLayout>
+
+</RelativeLayout>
